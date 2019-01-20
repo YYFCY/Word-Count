@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  WordCount.cpp
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(14): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_io.h(441): note: 参见“access”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(16): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_io.h(441): note: 参见“access”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(39): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(54): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(76): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(93): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(117): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(277): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(297): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\qwe\documents\visual studio 2017\projects\wordcount\wordcount\wordcount.cpp(301): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  WordCount.vcxproj -> C:\Users\qwe\Documents\Visual Studio 2017\Projects\WordCount\Debug\WordCount.exe
+  WordCount.vcxproj -> C:\Users\qwe\Documents\Visual Studio 2017\Projects\WordCount\Debug\WordCount.pdb (Partial PDB)
